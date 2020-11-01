@@ -1,0 +1,18 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "1303",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "1303",
+        "Nev": "Secund full name",
+        "Szuletesinev": "Second birth name",
+        "Anyjaleanykorineve": "Second mothers name",
+        "Szuletesihely": "Second Budapest",
+        "Szuletesiid": "2020-10-18T00:00:00",
+        "TAJszam": 564789321
+      }
+    }
+  }
+}

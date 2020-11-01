@@ -1,0 +1,18 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "1351",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "1351",
+        "Nev": "Turelmet Lenke",
+        "Szuletesinev": "Turelmet Lenke",
+        "Anyjaleanykorineve": "Turelmetlenke anyuka",
+        "Szuletesihely": "Budapest",
+        "Szuletesiid": "1991-12-30T00:00:00",
+        "TAJszam": 123321123
+      }
+    }
+  }
+}

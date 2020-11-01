@@ -1,0 +1,47 @@
+﻿html, body{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+body{
+	margin: 0;
+	background: url(../img/logout/bg-light.jpg) no-repeat 0 0;
+  background-size: cover;
+  -moz-background-size: cover; 
+  -webkit-background-size: cover;
+  background-color: #F6F6F6;
+}
+
+.main-content{
+	position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+h1.logo-suite{
+	background: url(../img/logout/logo-suite.png) no-repeat 0 0;
+	width: 294px;
+	text-indent: -9999px;
+	height: 112px;
+	margin: 80px auto;
+}
+
+p.txt{
+	font-size: 14px;
+	color: #576673;
+	text-align: center;
+}
+
+.txt a{
+	font-style: italic;
+	color: #576673;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.txt a:hover{
+	color: #00ACA1;
+}

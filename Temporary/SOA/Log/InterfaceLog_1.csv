@@ -1,0 +1,13 @@
+DateTime;ErrorDescription;idCase;Task_Name;URL;Method_Name;InterfaceTime(MM:ss:mmm)
+10/20/2020 13:27:53;The content type (text/xml) of the interface response is different from the expected one. The ContentType "text/xml" expect a XML content in the response.;351;Get name;http://localhost:3000/api/szoveg;GET; 00:00:018
+10/20/2020 13:28:01;The content type (text/xml) of the interface response is different from the expected one. The ContentType "text/xml" expect a XML content in the response.;351;Get name;http://localhost:3000/api/szoveg;GET; 00:00:000
+10/20/2020 13:28:04;The content type (text/xml) of the interface response is different from the expected one. The ContentType "text/xml" expect a XML content in the response.;351;Get name;http://localhost:3000/api/szoveg;GET; 00:00:000
+10/20/2020 22:16:39;Thread was being aborted.;601;Get name;http://localhost:3000/api/szoveg/;GET; 02:00:030
+10/20/2020 22:20:16;Thread was being aborted.;651;Get name;http://localhost:3000/api/szoveg/;GET; 02:00:021
+10/20/2020 22:28:51;Thread was being aborted.;701;Get name;http://localhost:3000/api/szoveg/;GET; 00:10:020
+10/26/2020 20:11:43;Unable to connect to the remote server Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot 127.0.0.1:3000;901;Get name;http://localhost:3000/api/90979653;GET; 00:04:129
+11/01/2020 00:35:02;Thread was being aborted.;1501;Task 2;http://localhost:3000/api;POST; 00:10:055
+11/01/2020 00:38:51;Unable to connect to the remote server Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot 127.0.0.1:3000;1502;Betegadatok lekérése;http://localhost:3000/api/121212121;GET; 00:04:090
+11/01/2020 00:39:17;Unable to connect to the remote server Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot 127.0.0.1:3000;1503;Betegadatok lekérése;http://localhost:3000/api/121212122;GET; 00:04:061
+11/01/2020 00:40:23;Thread was being aborted.;1504;Task 2;http://localhost:3000/api;POST; 00:10:030
+11/01/2020 00:41:32;Thread was being aborted.;1505;Task 2;http://localhost:3000/api;POST; 00:10:005

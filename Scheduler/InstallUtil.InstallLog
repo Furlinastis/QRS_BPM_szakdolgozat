@@ -1,0 +1,14 @@
+﻿
+Visszagörgethető telepítés futtatása.
+
+A telepítés telepítési fázisának megkezdése.
+Ellenőrizze a(z) C:\Bizagi\Projects\Diploma_QRS\Scheduler\BizAgi.Scheduler.Services.exe szerelvény folyamatához tartozó naplófájl tartalmát.
+A fájl helye: C:\Bizagi\Projects\Diploma_QRS\Scheduler\BizAgi.Scheduler.Services.InstallLog.
+
+A telepítési fázis sikeresen befejeződött, és megkezdődik a véglegesítési fázis.
+Ellenőrizze a(z) C:\Bizagi\Projects\Diploma_QRS\Scheduler\BizAgi.Scheduler.Services.exe szerelvény folyamatához tartozó naplófájl tartalmát.
+A fájl helye: C:\Bizagi\Projects\Diploma_QRS\Scheduler\BizAgi.Scheduler.Services.InstallLog.
+
+A véglegesítési fázis sikeresen befejeződött.
+
+A visszagörgethető telepítés befejeződött.

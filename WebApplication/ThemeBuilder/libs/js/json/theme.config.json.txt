@@ -1,0 +1,192 @@
+{
+    "theme": {
+        "title": "Theme Builder",
+        "version": "11.0.14",
+        "date": "",
+        "brand": {
+            "url": "http://www.bizagi.com",
+			"logo": "libs/css/img/logo-white.png",
+			"defaultLogo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAsCAYAAACue3wzAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjlGM0RBQjU0Q0MyMDExRTU4QTI4QjJFNDQ4MDA3OTdCIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjlGM0RBQjU1Q0MyMDExRTU4QTI4QjJFNDQ4MDA3OTdCIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6OUYzREFCNTJDQzIwMTFFNThBMjhCMkU0NDgwMDc5N0IiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6OUYzREFCNTNDQzIwMTFFNThBMjhCMkU0NDgwMDc5N0IiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz48uWmlAAAIsklEQVR42uxbe5COVRh/11p3IaFQKOUSNUWSjEtKLkU1ZWpMUTuxckkuCY0/0sZayuiCksiMwhLLuG4uhci1KJpccg8rdt2ysV+/33zPN17vnPPevm+/WeZ9Zn7zfnve8z7nnOc55znP85yzCSlDUs8YhlHOuEp/As9NShu+0wjouqciFuWS7gb6B6K5cRSsolsC0dzYCg4oUHBAgYIDChQcUKDggAIFB6Sjom4qpQxJvQmPxsBdwM3AJeAUsBvYNilt+GW3DQqvPkAxKboILAaPHZZ6NfBI8DieEHAUSAS/f70KwzRO5gL4Ox/IMcLJn83geT5WgkdbXFz3Ag2AKkAJgPwPiUwPeOT3EB4dTUXkNSMBL0KK+guAZ4H2wGtAZ5vJkAvMBz5Bpza56EgrPFZZijlhGuD7PVKnHR5LPMrsLLBdeJcBfgK/DJeC5lh7Aa1trBon8XLgM5mQIZ+KrYNHP+AFoJJN1T+oIGAy2sp2wXc8Hm9ainfoBlMSGAq8DbR1WOmc6a8AP6ORWUAlH+MuDjQz/V3CB4//gCtARaA6wL60dxDK/ew3wInQxmHLogw6AIuAtfi2nkfFlgYm4OdvwBsOyiVxIrwP7MF3fYAEHzJpqBtQMVEczUW2mD431IWzBp15OM7+AJW7H/gF+BV4RvhNkBWqEng3UW4jH+1xMm4Bjy4ulVuLJh7oy+3DY1tMJX8MZIJP2VgJlQq9ACSJ8PI98OR+sgqdeTQKhe3xqNxdwErgB7E6kf29NmexQuA0x9NM9fxQSbESrzool334Eagb5bb9FJAlfkLUCqaD8j2wBpgIDALeEgwERnMfknq6wWeKo+SZ5CSrq5jOBRpkiJLGAqOkP6PFETRTNYvAO8k+6uSsnRQ4Wa8p4NnGxmlbbO2DgriYjgB5DvWaAF97Mde6vTUPQl6H5zqH2VkZj5FAD8VrettfAY/5VPJMPGa6NIFNZG9U7WvHTPX4/ksbVjTxqcAytJ8r35QVP+Qd8bBVi4RCrxf5xkTjxCNXUY68/8bkXJIXveGeQDfNAqTDS6sxtcDjYHTsBNBTPFAVtRaPuMAI/Dng1RrlHhClRWi4oT8poyVohPHMMSsKv88Cc2X1pGq+rQoMsPSrPh7JmvpbGCKB78iIcqWtfGAjwMjlceC05vtU8C9R4Ao2dWwSHuM1r/sWoHIZT8+TLUFF/Sk0qVtKQj4VfYh6g4ErNmMMAe/iZ5qmSm+0kWT6u58mjqe/0Aa8jjjIdJXsuyqzfauEdnHNZI2Q5IeVnnA72zwolvH7GPEuVWOgonpASPNNZdwqVF4okzVDPDQ/jJGCopyWoWWkf+LJq/b2ruhXjsuFsx6PMZrXneOqYJoyPOYqXiVJtiZWymXM/C0wWFPlHGc++vOFpVwXuqV7ycSJRUjXvG4hz5oSTViJe/s2j0MeLxPWSk3jvYIje4uKqsVIuXTcsiTeNjQOVQsIcani3R2ab5b76IouyxYJhWrEqi2M5ZTE0FaqHo2CE3zqIDfG/MzKrSlefXNNld85q21WSDlN+VEfQmfy56LGTJPKaz497HP4BxVliW4SH0U0y7+Kz47cpim/FKVymW3aYJMsoEPSDII/6GPy+U125NksGF1bxX22dUFTnuhGwfsU5Y0g1HI+OtJKU74vCuV2lAyVbtIxId/OheOiU/59BeDgH4hjW44K3qhJgPT2qIh7jGuPqyL0jxE+bvOjXCZQMoFSmipMsnSDcvNcsNusKe9aAHLdr4lhn8eYisZbwfM074aiMw1dKqKYZIhUJuO7SCzqY+VO1vgJ9HqTwXeEh2M7Omeq89wUtFU3lkKV8WYqXtWS+DiuCl4I7FW845nqUgz+QQdFcKPPsHF+PvXZt3Ga8rMSBk31KHSGT1M0e/ACjKNKjGU7UVOehrY6xE3BEgPqAn2m4NajQ+lyKmJWbAUgWYL+pzXfT/MR90VOYOpoPF6GQct8jneUxnRye+F5dusYrmJufbM1299CtDU01gkgQ9MYOzMXjU03wglulefH06RBqHMCz+NG+Kz4doc4mlbB77/AqLxxpviY966PfrxohNN15W14MDqYhbHNNgn9uOzrczRx8kq8p7fOCfQXcEYTEbh1GunHNFPErJTbBwAP8mnKmS/Plq3Hmvk6EYWnf81pUg8RbFub+pUFTnTMpWero0OK+PE9I3yF6EnxRt04K50gwPXox2GTkjNQxpOh0ZpvmmqyRDwaXQts8rCKs8UcM4yrqLGQKYrykExofrc7ivDq6goUT5RnpTOjtArsUHPzKYkP88bVs9U02LEidJ6wNHSp3MgErq3gnybW4LLHxVBUPPpED2PhFtbSJkzTJYZKy7OU4f5GjX0mC525BDBsSBaT4YVoEpn8bwwedibMbWd5gYy3NXjxgFksnqvyMD8pRnvk53g8YoSv+Lih8+J4ljU8pnjRFu9h8f7XdJefUEbnJPYv43IihhwVbOrQVJn5TOg7/Z/wSfGUeb7Zz8XV0p02mR5zH2gOO4iCc2TP9WOqztu0wdiYUcJLRvhaTchhMaw2wrccM31MqDNAd/x8QBSd67CCacUWSax/zkU2bY2OkRuvtqoIooZpBdGj5czc5TXOBb8GItTS5tUvpllVn/30k1nLV9yysOsXDzN46nSnEc4rR67uMFGzQUKtSN0pCvO/AnVSPeQOKNN6psl7QRy4zWZZoO5S8T2u8QlQp6SFZ1uxShG9nk4wAirUBKUxUjiiyOZthYIdb4QG/7pS+GmYoU7VrvbsZAVU6FYvr+UM1Lye4TUODqjwKJYLj3fZ0jWLcAnM8/ZAwYVTeXQWK2gcXt4M5T8MvC7Oly4qcH2RMVBwfJXLA5QBUbCgV98dq3evl4xJQPHzhk9HwYKhaC9J0BjBCi58VD6Kb/8GXoZys7x+GHjRhZt4se8jI5wlzPLDIFjB8SNm1JhatDv6Y0aPhxI8Q18BzJFrs77pfwEGAE4T2uOgrZMVAAAAAElFTkSuQmCC",
+            "alt": "Bizagi"
+        },
+        "support": [
+            "Chrome",
+            "Firefox",
+            "IE9+"
+        ],
+        "less": "libs/js/json/base.theme.json.txt",
+        "templates": [
+            {
+                "name": "custom.theme.layout",
+                "src": "libs/tmpl/layout.theme.generator.tmpl.html"
+            },
+            {
+                "name": "custom.theme.layout.tabs",
+                "src": "libs/tmpl/previewTabs.theme.generator.tmpl.html"
+            },
+            {
+                "name": "custom.theme.category.list",
+                "src": "libs/tmpl/categoryControls.theme.generator.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.select",
+                "src": "libs/tmpl/select.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.new",
+                "src": "libs/tmpl/new.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.switch",
+                "src": "libs/tmpl/switch.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.radio",
+                "src": "libs/tmpl/radio.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.preview.workportal",
+                "src": "libs/tmpl/preview.workportal.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.preview.webparts",
+                "src": "libs/tmpl/preview.webparts.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.themes",
+                "src": "libs/tmpl/prebuild.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.save.panel",
+                "src": "libs/tmpl/save.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.new.panel",
+                "src": "libs/tmpl/new.dialog.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.change.background.image.panel",
+                "src": "libs/tmpl/changeBackgroundImages.dialog.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.changeLogo.panel",
+                "src": "libs/tmpl/changeLogo.dialog.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.update.panel",
+                "src": "libs/tmpl/update.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "custom.theme.ui.controls.color.base",
+                "src": "libs/tmpl/color.base.theme.ui.control.tmpl.html"
+            },
+            {
+                "name": "access.denied.form",
+                "src": "libs/tmpl/access.denied.form.tmpl.html"
+            }
+        ],
+        "css": {
+            "securefonts": [
+                {
+                    "label": "Arial",
+                    "value": "Arial, 'Helvetica Neue', Helvetica, sans-serif"
+                },
+                {
+                    "label": "Franklin Gothic",
+                    "value": "'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif"
+                },
+                {
+                    "label": "Geneva",
+                    "value": "Geneva, Tahoma, Verdana, sans-serif"
+                },
+                {
+                    "label": "Helvetica Neue",
+                    "value": "'Helvetica Neue', Helvetica, Arial, sans-serif"
+                },
+                {
+                    "label": "Optima",
+                    "value": "Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif"
+                },
+                {
+                    "label": "Open Sans",
+                    "value": "'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif"
+                },
+				{
+                    "label": "Segoe UI",
+                    "value": "'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif"
+                },
+                {
+                    "label": "Tahoma",
+                    "value": "Tahoma, Verdana, Segoe, sans-serif"
+                },
+                {
+                    "label": "Trebuchet MS",
+                    "value": "'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif"
+                },
+                {
+                    "label": "Verdana",
+                    "value": "Verdana, Geneva, sans-serif"
+                }
+            ],
+            "sideBackgrounds":[
+                {
+                    "label": "Mountains",
+                    "value": "url('bg-images/bg-landscape.png')",
+                    "src":"bg-images/bg-landscape.png"
+                },
+                {
+                    "label": "Artic",
+                    "value": "url('bg-images/bg-landscape-artic.png')",
+                    "src":"bg-images/bg-landscape-artic.png"
+                },
+                {
+                    "label": "Island",
+                    "value": "url('bg-images/bg-landscape-island.png')",
+                    "src":"bg-images/bg-landscape-island.png"
+                },
+                {
+                    "label": "Ligth House",
+                    "value": "url('bg-images/bg-landscape-lighthouse.png')",
+                    "src":"bg-images/bg-landscape-lighthouse.png"
+                },
+                {
+                    "label": "Analytics",
+                    "value": "url('bg-images/bg-landscape-analytics.png')",
+                    "src":"bg-images/bg-landscape-analytics.png"
+                },
+                {
+                    "label": "None",
+                    "value": "none",
+                    "src":"bg-images/not-alowed.png"
+                }
+            ]
+        },
+        "previewPanels": [
+            {
+                "id": "tabsWorkportal",
+                "name": "WorkPortal",
+                "url": "../index.html",
+                "css": "biz-ui-theme-panel-workportal"
+            }
+        ],
+        "localization": {
+            "en": "resources/bizagi.resources.json.txt",
+            "en_us": "resources/bizagi.resources.json.txt",
+            "es": "resources/bizagi.resources.es.json.txt",
+            "es_es": "resources/bizagi.resources.es-es.json.txt",
+            "de": "resources/bizagi.resources.de.json.txt",
+            "fr": "resources/bizagi.resources.fr.json.txt",
+            "it": "resources/bizagi.resources.it.json.txt",
+            "ja": "resources/bizagi.resources.ja.json.txt",
+            "nl": "resources/bizagi.resources.nl.json.txt",
+            "pt-br": "resources/bizagi.resources.pt-br.json.txt",
+            "pt": "resources/bizagi.resources.pt.json.txt",
+            "ru": "resources/bizagi.resources.ru.json.txt",
+            "zh": "resources/bizagi.resources.zh.json.txt",
+			"cs-cz": "resources/bizagi.resources.cs-cz.json.txt",
+			"cs": "resources/bizagi.resources.cs-cz.json.txt",
+			"ar": "resources/bizagi.resources.ar.json.txt",
+			"ar-sa": "resources/bizagi.resources.ar.json.txt"
+        }
+    }
+}

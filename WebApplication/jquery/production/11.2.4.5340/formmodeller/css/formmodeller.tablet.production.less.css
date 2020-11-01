@@ -1,0 +1,29 @@
+@charset "UTF-8";
+.tablet .bz-tabs {
+    overflow-x: hidden;
+}
+.tablet .bz-collapsible__content {
+    min-height: 30px;
+}
+.tablet fieldset {
+    background: transparent;
+}
+.tablet .bz-form-item.ui-state-active, .tablet .bz-container.ui-bizagi-container-selected {
+    background-color: #fafafa;
+    background-image: initial !important;
+    border: 1px solid transparent !important;
+    outline-offset: -1px;
+    outline: 1px solid #91ad1f !important;
+}
+.bz-tablet-grid__cell .bz-form-item input.bz-input, .bz-tablet-grid__cell .bz-radio-list, .bz-tablet-grid__cell .bz-form-item .bz-input-icon {
+    min-width: 128px;
+}
+.bz-tablet-grid__cell .bz-radio-list.bz-radio-list--horizontal {
+    min-width: 256px;
+}
+.bz-form-item--error.bz-tablet-grid__cell .bz-form-cell-message__error {
+    display: none;
+}
+.bz-file-upload__input, .bz-image__input {
+    right: 0;
+}

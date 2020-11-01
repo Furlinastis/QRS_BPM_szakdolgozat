@@ -1,0 +1,36 @@
+{
+  "version": "3",
+  "displayname": "",
+  "mapping": {
+    "datasources": [
+      {
+        "name": "externSys",
+        "title": "ResponseData",
+        "type": "ExternSystem",
+        "applicationentityguid": "",
+        "contextentityguid": "",
+        "sections": [
+          {
+            "name": "data"
+          }
+        ],
+        "xsd": "PAA/AHgAbQBsACAAdgBlAHIAcwBpAG8AbgA9ACIAMQAuADAAIgAgAGUAbgBjAG8AZABpAG4AZwA9ACIAdQB0AGYALQA4ACIAPwA+ADwAeABzADoAcwBjAGgAZQBtAGEAIAB4AG0AbABuAHMAOgB4AHMAPQAiAGgAdAB0AHAAOgAvAC8AdwB3AHcALgB3ADMALgBvAHIAZwAvADIAMAAwADEALwBYAE0ATABTAGMAaABlAG0AYQAiACAAYQB0AHQAcgBpAGIAdQB0AGUARgBvAHIAbQBEAGUAZgBhAHUAbAB0AD0AIgBxAHUAYQBsAGkAZgBpAGUAZAAiACAAZQBsAGUAbQBlAG4AdABGAG8AcgBtAEQAZQBmAGEAdQBsAHQAPQAiAHEAdQBhAGwAaQBmAGkAZQBkACIAPgA8AHgAcwA6AGUAbABlAG0AZQBuAHQAIABuAGEAbQBlAD0AIgBSAGUAcwBwAG8AbgBzAGUARABhAHQAYQAiAD4APAAvAHgAcwA6AGUAbABlAG0AZQBuAHQAPgA8AC8AeABzADoAcwBjAGgAZQBtAGEAPgA=",
+        "sourcexpathsjson": ""
+      },
+      {
+        "name": "bizagi",
+        "title": "BizagiData",
+        "type": "BizagiModel",
+        "applicationentityguid": "d6342823-0838-427e-9167-453b383cc3a3",
+        "contextentityguid": "d6342823-0838-427e-9167-453b383cc3a3",
+        "sections": [
+          {
+            "name": "data"
+          }
+        ],
+        "targetxpathsjson": ""
+      }
+    ],
+    "links": []
+  }
+}

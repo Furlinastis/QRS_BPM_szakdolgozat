@@ -1,0 +1,18 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "1304",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "1304",
+        "Nev": "Ide irogatok nevet",
+        "Szuletesinev": "Ide irogatok nevet",
+        "Anyjaleanykorineve": "Ide irogatok nevet",
+        "Szuletesihely": "Ide meg helyet",
+        "Szuletesiid": "2020-07-14T00:00:00",
+        "TAJszam": 887766554
+      }
+    }
+  }
+}

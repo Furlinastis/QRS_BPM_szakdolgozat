@@ -1,0 +1,193 @@
+{
+  "version": "3",
+  "displayname": "",
+  "mapping": {
+    "datasources": [
+      {
+        "name": "externSys",
+        "title": "SourceTable",
+        "type": "ExternSystem",
+        "applicationentityguid": "",
+        "contextentityguid": "",
+        "sections": [
+          {
+            "name": "data"
+          }
+        ],
+        "xsd": "PAA/AHgAbQBsACAAdgBlAHIAcwBpAG8AbgA9ACIAMQAuADAAIgAgAGUAbgBjAG8AZABpAG4AZwA9ACIAdQB0AGYALQA4ACIAPwA+ADwAeABzADoAcwBjAGgAZQBtAGEAIAB4AG0AbABuAHMAOgB4AHMAPQAiAGgAdAB0AHAAOgAvAC8AdwB3AHcALgB3ADMALgBvAHIAZwAvADIAMAAwADEALwBYAE0ATABTAGMAaABlAG0AYQAiACAAYQB0AHQAcgBpAGIAdQB0AGUARgBvAHIAbQBEAGUAZgBhAHUAbAB0AD0AIgBxAHUAYQBsAGkAZgBpAGUAZAAiACAAZQBsAGUAbQBlAG4AdABGAG8AcgBtAEQAZQBmAGEAdQBsAHQAPQAiAHEAdQBhAGwAaQBmAGkAZQBkACIAPgA8AHgAcwA6AGUAbABlAG0AZQBuAHQAIABuAGEAbQBlAD0AIgBTAG8AdQByAGMAZQBUAGEAYgBsAGUAIgA+ADwAeABzADoAYwBvAG0AcABsAGUAeABUAHkAcABlAD4APAB4AHMAOgBzAGUAcQB1AGUAbgBjAGUAPgA8AHgAcwA6AGUAbABlAG0AZQBuAHQAIABuAGEAbQBlAD0AIgBiACIAPgA8AHgAcwA6AGMAbwBtAHAAbABlAHgAVAB5AHAAZQA+ADwAeABzADoAcwBlAHEAdQBlAG4AYwBlAD4APAB4AHMAOgBlAGwAZQBtAGUAbgB0ACAAbgBhAG0AZQA9ACIATQBvAHQAaABlAHIATgBhAG0AZQAiACAAdAB5AHAAZQA9ACIAeABzADoAcwB0AHIAaQBuAGcAIgAgAG4AaQBsAGwAYQBiAGwAZQA9ACIAdAByAHUAZQAiACAAbQBpAG4ATwBjAGMAdQByAHMAPQAiADAAIgAgAG0AYQB4AE8AYwBjAHUAcgBzAD0AIgAxACIAIAAvAD4APAB4AHMAOgBlAGwAZQBtAGUAbgB0ACAAbgBhAG0AZQA9ACIATgBhAG0AZQAiACAAdAB5AHAAZQA9ACIAeABzADoAcwB0AHIAaQBuAGcAIgAgAG4AaQBsAGwAYQBiAGwAZQA9ACIAdAByAHUAZQAiACAAbQBpAG4ATwBjAGMAdQByAHMAPQAiADAAIgAgAG0AYQB4AE8AYwBjAHUAcgBzAD0AIgAxACIAIAAvAD4APAB4AHMAOgBlAGwAZQBtAGUAbgB0ACAAbgBhAG0AZQA9ACIAUABsAGEAYwBlAEIAaQByAHQAaAAiACAAdAB5AHAAZQA9ACIAeABzADoAcwB0AHIAaQBuAGcAIgAgAG4AaQBsAGwAYQBiAGwAZQA9ACIAdAByAHUAZQAiACAAbQBpAG4ATwBjAGMAdQByAHMAPQAiADAAIgAgAG0AYQB4AE8AYwBjAHUAcgBzAD0AIgAxACIAIAAvAD4APAB4AHMAOgBlAGwAZQBtAGUAbgB0ACAAbgBhAG0AZQA9ACIARABhAHQAZQBCAGkAcgB0AGgAIgAgAHQAeQBwAGUAPQAiAHgAcwA6AHMAdAByAGkAbgBnACIAIABuAGkAbABsAGEAYgBsAGUAPQAiAHQAcgB1AGUAIgAgAG0AaQBuAE8AYwBjAHUAcgBzAD0AIgAwACIAIABtAGEAeABPAGMAYwB1AHIAcwA9ACIAMQAiACAALwA+ADwAeABzADoAZQBsAGUAbQBlAG4AdAAgAG4AYQBtAGUAPQAiAFMAegB1AGwAZQB0AGUAcwBrAG8AcgBpAE4AYQBtAGUAIgAgAHQAeQBwAGUAPQAiAHgAcwA6AHMAdAByAGkAbgBnACIAIABuAGkAbABsAGEAYgBsAGUAPQAiAHQAcgB1AGUAIgAgAG0AaQBuAE8AYwBjAHUAcgBzAD0AIgAwACIAIABtAGEAeABPAGMAYwB1AHIAcwA9ACIAMQAiACAALwA+ADwAeABzADoAZQBsAGUAbQBlAG4AdAAgAG4AYQBtAGUAPQAiAFQAQQBKACIAIAB0AHkAcABlAD0AIgB4AHMAOgBzAHQAcgBpAG4AZwAiACAAbgBpAGwAbABhAGIAbABlAD0AIgB0AHIAdQBlACIAIABtAGkAbgBPAGMAYwB1AHIAcwA9ACIAMAAiACAAbQBhAHgATwBjAGMAdQByAHMAPQAiADEAIgAgAC8APgA8AC8AeABzADoAcwBlAHEAdQBlAG4AYwBlAD4APAAvAHgAcwA6AGMAbwBtAHAAbABlAHgAVAB5AHAAZQA+ADwALwB4AHMAOgBlAGwAZQBtAGUAbgB0AD4APAAvAHgAcwA6AHMAZQBxAHUAZQBuAGMAZQA+ADwALwB4AHMAOgBjAG8AbQBwAGwAZQB4AFQAeQBwAGUAPgA8AC8AeABzADoAZQBsAGUAbQBlAG4AdAA+ADwALwB4AHMAOgBzAGMAaABlAG0AYQA+AA==",
+        "sourcexpathsjson": ""
+      },
+      {
+        "name": "bizagi",
+        "title": "BizagiData",
+        "type": "BizagiModel",
+        "applicationentityguid": "d6342823-0838-427e-9167-453b383cc3a3",
+        "contextentityguid": "d6342823-0838-427e-9167-453b383cc3a3",
+        "sections": [
+          {
+            "name": "data"
+          }
+        ],
+        "targetxpathsjson": ""
+      }
+    ],
+    "links": [
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "b.TAJ",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.TAJszam",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "b.Name",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.Nev",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "b.SzuleteskoriName",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.Szuletesinev",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "b.MotherName",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.Anyjaleanykorineve",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "b.PlaceBirth",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.Szuletesihely",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "b.DateBirth",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.Szuletesiid",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

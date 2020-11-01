@@ -1,0 +1,63 @@
+{
+  "version": "3",
+  "displayname": "",
+  "mapping": {
+    "datasources": [
+      {
+        "name": "externSys",
+        "title": "SourceTable",
+        "type": "ExternSystem",
+        "applicationentityguid": "",
+        "contextentityguid": "",
+        "sections": [
+          {
+            "name": "data"
+          }
+        ],
+        "xsd": "PAA/AHgAbQBsACAAdgBlAHIAcwBpAG8AbgA9ACIAMQAuADAAIgAgAGUAbgBjAG8AZABpAG4AZwA9ACIAdQB0AGYALQA4ACIAPwA+ADwAeABzADoAcwBjAGgAZQBtAGEAIAB4AG0AbABuAHMAOgB4AHMAPQAiAGgAdAB0AHAAOgAvAC8AdwB3AHcALgB3ADMALgBvAHIAZwAvADIAMAAwADEALwBYAE0ATABTAGMAaABlAG0AYQAiACAAYQB0AHQAcgBpAGIAdQB0AGUARgBvAHIAbQBEAGUAZgBhAHUAbAB0AD0AIgBxAHUAYQBsAGkAZgBpAGUAZAAiACAAZQBsAGUAbQBlAG4AdABGAG8AcgBtAEQAZQBmAGEAdQBsAHQAPQAiAHEAdQBhAGwAaQBmAGkAZQBkACIAPgA8AHgAcwA6AGUAbABlAG0AZQBuAHQAIABuAGEAbQBlAD0AIgBTAG8AdQByAGMAZQBUAGEAYgBsAGUAIgA+ADwAeABzADoAYwBvAG0AcABsAGUAeABUAHkAcABlAD4APAB4AHMAOgBzAGUAcQB1AGUAbgBjAGUAPgA8AHgAcwA6AGUAbABlAG0AZQBuAHQAIABuAGEAbQBlAD0AIgBuAGEAbQBlACIAIAB0AHkAcABlAD0AIgB4AHMAOgBzAHQAcgBpAG4AZwAiACAAbgBpAGwAbABhAGIAbABlAD0AIgB0AHIAdQBlACIAIABtAGkAbgBPAGMAYwB1AHIAcwA9ACIAMAAiACAAbQBhAHgATwBjAGMAdQByAHMAPQAiADEAIgAgAC8APgA8AC8AeABzADoAcwBlAHEAdQBlAG4AYwBlAD4APAAvAHgAcwA6AGMAbwBtAHAAbABlAHgAVAB5AHAAZQA+ADwALwB4AHMAOgBlAGwAZQBtAGUAbgB0AD4APAAvAHgAcwA6AHMAYwBoAGUAbQBhAD4A",
+        "sourcexpathsjson": ""
+      },
+      {
+        "name": "bizagi",
+        "title": "BizagiData",
+        "type": "BizagiModel",
+        "applicationentityguid": "d6342823-0838-427e-9167-453b383cc3a3",
+        "contextentityguid": "d6342823-0838-427e-9167-453b383cc3a3",
+        "sections": [
+          {
+            "name": "data"
+          }
+        ],
+        "targetxpathsjson": ""
+      }
+    ],
+    "links": [
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "name",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.Anyjaleanykorineve",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

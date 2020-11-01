@@ -1,0 +1,15 @@
+﻿A(z) „C:\Bizagi\Projects\Diploma_QRS\Scheduler\BizAgi.Scheduler.Services.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   name = BizAgiDiplomaQRSSchedulerService
+   assemblypath = C:\Bizagi\Projects\Diploma_QRS\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\Diploma_QRS\Scheduler\BizAgi.Scheduler.Services.InstallLog
+A szolgáltatás (BizAgiDiplomaQRSSchedulerService) telepítése folyamatban van...
+A szolgáltatás (BizAgiDiplomaQRSSchedulerService) telepítése sikeresen megtörtént.
+EventLog forrás (BizAgiDiplomaQRSSchedulerService) létrehozása a következő naplóban: Application...
+A(z) „C:\Bizagi\Projects\Diploma_QRS\Scheduler\BizAgi.Scheduler.Services.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   name = BizAgiDiplomaQRSSchedulerService
+   assemblypath = C:\Bizagi\Projects\Diploma_QRS\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\Diploma_QRS\Scheduler\BizAgi.Scheduler.Services.InstallLog

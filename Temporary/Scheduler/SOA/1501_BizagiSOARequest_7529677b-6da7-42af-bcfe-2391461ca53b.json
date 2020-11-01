@@ -1,0 +1,18 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "1501",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "1501",
+        "Nev": "21",
+        "Szuletesinev": "21",
+        "Anyjaleanykorineve": "21",
+        "Szuletesihely": "21",
+        "Szuletesiid": null,
+        "TAJszam": 121212121
+      }
+    }
+  }
+}

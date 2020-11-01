@@ -1,0 +1,18 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "1301",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "1301",
+        "Nev": "Név teszt",
+        "Szuletesinev": "Születési név teszt",
+        "Anyjaleanykorineve": "Anyja neve teszt",
+        "Szuletesihely": "Születési hely teszt",
+        "Szuletesiid": "2020-10-01T00:00:00",
+        "TAJszam": 321654987
+      }
+    }
+  }
+}

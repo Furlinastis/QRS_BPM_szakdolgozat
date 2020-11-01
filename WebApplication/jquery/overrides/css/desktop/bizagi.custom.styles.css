@@ -1,0 +1,219 @@
+﻿.btn_custom2{
+max-width: 320px !important;
+height: 555px;
+background-size: 300px 150px;
+background: #415A68 url("./EKG_felhelyezese.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom2:hover{
+max-width: 320px !important;
+height: 555px;
+background-size: 300px 150px;
+background: #415A68 url("./EKG_felhelyezese.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom3{
+max-width: 400px !important;
+height: 144px;
+background-size: 400px 150px;
+background: url("./EKG_Pitvarfibrillation.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom3:hover{
+max-width: 400px !important;
+height: 144px;
+background-size: 400px 150px;
+background: url("./EKG_Pitvarfibrillation.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom4{
+max-width: 602px !important;
+height: 176px;
+background-size: 602px 176px;
+background: url("./CSS_P_hullam.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+}
+
+.btn_custom4:hover{
+max-width: 602px !important;
+height: 176px;
+background-size: 602px 176px;
+background: url("./CSS_P_hullam.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom5{
+max-width: 602px !important;
+height: 176px;
+background-size: 602px 176px;
+background: url("./CSS_P_hullam_2.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom5:hover{
+max-width: 602px !important;
+height: 176px;
+background-size: 602px 176px;
+background: url("./CSS_P_hullam_2.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom6{
+max-width: 250px !important;
+height: 231px;
+background-size: 250px 231px;
+background: url("./CSS_PR_szakasz.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom6:hover{
+max-width: 250px !important;
+height: 231px;
+background-size: 250px 231px;
+background: url("./CSS_PR_szakasz.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom7{
+max-width: 631px !important;
+height: 366px;
+background-size: 631px 366px;
+background: url("./CSS_EKG.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom7:hover{
+max-width: 631px !important;
+height: 366px;
+background-size: 631px 366px;
+background: url("./CSS_EKG.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom8{
+max-width: 200px !important;
+height: 156px;
+background-size: 200px 156px;
+background: url("./QRS_komplexus.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom8:hover{
+max-width: 200px !important;
+height: 156px;
+background-size: 200px 156px;
+background: url("./QRS_komplexus.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom9{
+max-width: 600px !important;
+height: 172px;
+background-size: 600px 172px;
+background: url("./CSS_frekvencia.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom9:hover{
+max-width: 600px !important;
+height: 172px;
+background-size: 600px 172px;
+background: url("./CSS_frekvencia.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom10{
+max-width: 648px !important;
+height: 178px;
+background-size: 648px 178px;
+background: url("./CSS_I_AVblokk.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom10:hover{
+max-width: 648px !important;
+height: 178px;
+background-size: 648px 178px;
+background: url("./CSS_I_AVblokk.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+.btn_custom11{
+max-width: 648px !important;
+height: 178px;
+background-size: 648px 178px;
+background: url("./CSS_II_AVblokk.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom11:hover{
+max-width: 648px !important;
+height: 178px;
+background-size: 648px 178px;
+background: url("./CSS_II_AVblokk.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+.btn_custom12{
+max-width: 648px !important;
+height: 178px;
+background-size: 648px 178px;
+background: url("./CSS_III_AVblokk.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+.btn_custom12:hover{
+max-width: 648px !important;
+height: 178px;
+background-size: 648px 178px;
+background: url("./CSS_III_AVblokk.jpg") no-repeat !important;
+width: 800px;
+opacity: 1 !important;
+
+}
+
+
+

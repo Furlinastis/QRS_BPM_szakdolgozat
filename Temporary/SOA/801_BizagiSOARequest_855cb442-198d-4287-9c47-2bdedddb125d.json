@@ -1,0 +1,13 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "801",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "801",
+        "TAJszam": 777888999
+      }
+    }
+  }
+}
