@@ -1,0 +1,193 @@
+{
+  "version": "3",
+  "displayname": "",
+  "mapping": {
+    "datasources": [
+      {
+        "name": "externSys",
+        "title": "SourceTable",
+        "type": "ExternSystem",
+        "applicationentityguid": "",
+        "contextentityguid": "",
+        "sections": [
+          {
+            "name": "data"
+          }
+        ],
+        "xsd": "PAA/AHgAbQBsACAAdgBlAHIAcwBpAG8AbgA9ACIAMQAuADAAIgAgAGUAbgBjAG8AZABpAG4AZwA9ACIAdQB0AGYALQA4ACIAPwA+ADwAeABzADoAcwBjAGgAZQBtAGEAIAB4AG0AbABuAHMAOgB4AHMAPQAiAGgAdAB0AHAAOgAvAC8AdwB3AHcALgB3ADMALgBvAHIAZwAvADIAMAAwADEALwBYAE0ATABTAGMAaABlAG0AYQAiACAAYQB0AHQAcgBpAGIAdQB0AGUARgBvAHIAbQBEAGUAZgBhAHUAbAB0AD0AIgBxAHUAYQBsAGkAZgBpAGUAZAAiACAAZQBsAGUAbQBlAG4AdABGAG8AcgBtAEQAZQBmAGEAdQBsAHQAPQAiAHEAdQBhAGwAaQBmAGkAZQBkACIAPgA8AHgAcwA6AGUAbABlAG0AZQBuAHQAIABuAGEAbQBlAD0AIgBTAG8AdQByAGMAZQBUAGEAYgBsAGUAIgA+ADwAeABzADoAYwBvAG0AcABsAGUAeABUAHkAcABlAD4APAB4AHMAOgBzAGUAcQB1AGUAbgBjAGUAPgA8AHgAcwA6AGUAbABlAG0AZQBuAHQAIABuAGEAbQBlAD0AIgBwAGEAdABpAGUAbgB0AEQAYQB0AGEAIgA+ADwAeABzADoAYwBvAG0AcABsAGUAeABUAHkAcABlAD4APAB4AHMAOgBzAGUAcQB1AGUAbgBjAGUAPgA8AHgAcwA6AGUAbABlAG0AZQBuAHQAIABuAGEAbQBlAD0AIgBNAG8AdABoAGUAcgBOAGEAbQBlACIAIAB0AHkAcABlAD0AIgB4AHMAOgBzAHQAcgBpAG4AZwAiACAAbgBpAGwAbABhAGIAbABlAD0AIgB0AHIAdQBlACIAIABtAGkAbgBPAGMAYwB1AHIAcwA9ACIAMAAiACAAbQBhAHgATwBjAGMAdQByAHMAPQAiADEAIgAgAC8APgA8AHgAcwA6AGUAbABlAG0AZQBuAHQAIABuAGEAbQBlAD0AIgBOAGEAbQBlACIAIAB0AHkAcABlAD0AIgB4AHMAOgBzAHQAcgBpAG4AZwAiACAAbgBpAGwAbABhAGIAbABlAD0AIgB0AHIAdQBlACIAIABtAGkAbgBPAGMAYwB1AHIAcwA9ACIAMAAiACAAbQBhAHgATwBjAGMAdQByAHMAPQAiADEAIgAgAC8APgA8AHgAcwA6AGUAbABlAG0AZQBuAHQAIABuAGEAbQBlAD0AIgBQAGwAYQBjAGUAQgBpAHIAdABoACIAIAB0AHkAcABlAD0AIgB4AHMAOgBzAHQAcgBpAG4AZwAiACAAbgBpAGwAbABhAGIAbABlAD0AIgB0AHIAdQBlACIAIABtAGkAbgBPAGMAYwB1AHIAcwA9ACIAMAAiACAAbQBhAHgATwBjAGMAdQByAHMAPQAiADEAIgAgAC8APgA8AHgAcwA6AGUAbABlAG0AZQBuAHQAIABuAGEAbQBlAD0AIgBEAGEAdABlAEIAaQByAHQAaAAiACAAdAB5AHAAZQA9ACIAeABzADoAcwB0AHIAaQBuAGcAIgAgAG4AaQBsAGwAYQBiAGwAZQA9ACIAdAByAHUAZQAiACAAbQBpAG4ATwBjAGMAdQByAHMAPQAiADAAIgAgAG0AYQB4AE8AYwBjAHUAcgBzAD0AIgAxACIAIAAvAD4APAB4AHMAOgBlAGwAZQBtAGUAbgB0ACAAbgBhAG0AZQA9ACIAUwB6AHUAbABlAHQAZQBzAGsAbwByAGkATgBhAG0AZQAiACAAdAB5AHAAZQA9ACIAeABzADoAcwB0AHIAaQBuAGcAIgAgAG4AaQBsAGwAYQBiAGwAZQA9ACIAdAByAHUAZQAiACAAbQBpAG4ATwBjAGMAdQByAHMAPQAiADAAIgAgAG0AYQB4AE8AYwBjAHUAcgBzAD0AIgAxACIAIAAvAD4APAB4AHMAOgBlAGwAZQBtAGUAbgB0ACAAbgBhAG0AZQA9ACIAVABBAEoAIgAgAHQAeQBwAGUAPQAiAHgAcwA6AHMAdAByAGkAbgBnACIAIABuAGkAbABsAGEAYgBsAGUAPQAiAHQAcgB1AGUAIgAgAG0AaQBuAE8AYwBjAHUAcgBzAD0AIgAwACIAIABtAGEAeABPAGMAYwB1AHIAcwA9ACIAMQAiACAALwA+ADwALwB4AHMAOgBzAGUAcQB1AGUAbgBjAGUAPgA8AC8AeABzADoAYwBvAG0AcABsAGUAeABUAHkAcABlAD4APAAvAHgAcwA6AGUAbABlAG0AZQBuAHQAPgA8AC8AeABzADoAcwBlAHEAdQBlAG4AYwBlAD4APAAvAHgAcwA6AGMAbwBtAHAAbABlAHgAVAB5AHAAZQA+ADwALwB4AHMAOgBlAGwAZQBtAGUAbgB0AD4APAAvAHgAcwA6AHMAYwBoAGUAbQBhAD4A",
+        "sourcexpathsjson": ""
+      },
+      {
+        "name": "bizagi",
+        "title": "BizagiData",
+        "type": "BizagiModel",
+        "applicationentityguid": "d6342823-0838-427e-9167-453b383cc3a3",
+        "contextentityguid": "d6342823-0838-427e-9167-453b383cc3a3",
+        "sections": [
+          {
+            "name": "data"
+          }
+        ],
+        "targetxpathsjson": ""
+      }
+    ],
+    "links": [
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "patientData.TAJ",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.TAJszam",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "patientData.Name",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.Nev",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "patientData.SzuleteskoriName",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.Szuletesinev",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "patientData.MotherName",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.Anyjaleanykorineve",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "patientData.PlaceBirth",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.Szuletesihely",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "fromdatasource": "externSys",
+        "fromsection": "data",
+        "fromfield": {
+          "fieldtype": "Value",
+          "literalxpath": {
+            "value": "patientData.DateBirth",
+            "type": "string",
+            "format": "",
+            "matchguid": ""
+          }
+        },
+        "todatasource": "bizagi",
+        "tosection": "data",
+        "tofield": {
+          "fieldtype": "Value",
+          "modelxpath": {
+            "xpath": {
+              "baxpath": {
+                "xpath": "EKG_QRS_BPM.Betegadatok.Szuletesiid",
+                "contextentity": "d6342823-0838-427e-9167-453b383cc3a3"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

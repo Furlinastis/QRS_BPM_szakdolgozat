@@ -1,0 +1,18 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "2114",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "2114",
+        "Nev": "Sajat neve",
+        "Szuletesinev": null,
+        "Anyjaleanykorineve": "Anyjalánykorija",
+        "Szuletesihely": "Zalalszentbalázs",
+        "Szuletesiid": "2020-12-06T00:00:00",
+        "TAJszam": 999888777
+      }
+    }
+  }
+}

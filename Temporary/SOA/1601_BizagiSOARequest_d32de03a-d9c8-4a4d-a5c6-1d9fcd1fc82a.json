@@ -1,0 +1,18 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "1601",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "1601",
+        "Nev": "Rozinger Kata",
+        "Szuletesinev": "Rozinger Kata",
+        "Anyjaleanykorineve": "Molnár Erzsébet",
+        "Szuletesihely": "Pócsa",
+        "Szuletesiid": "2020-10-05T00:00:00",
+        "TAJszam": 123321123
+      }
+    }
+  }
+}

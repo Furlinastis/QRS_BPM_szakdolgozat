@@ -1,0 +1,18 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "1552",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "1552",
+        "Nev": "Alabástrom Alajos",
+        "Szuletesinev": null,
+        "Anyjaleanykorineve": "Gipsz Gizella",
+        "Szuletesihely": "Nyíregyháza",
+        "Szuletesiid": "1956-09-06T02:00:00",
+        "TAJszam": 555666777
+      }
+    }
+  }
+}

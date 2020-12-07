@@ -1,0 +1,18 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "1652",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "1652",
+        "Nev": "Dünkel Noémi",
+        "Szuletesinev": null,
+        "Anyjaleanykorineve": "Rozinger katalin",
+        "Szuletesihely": "Budapest ",
+        "Szuletesiid": "2020-10-13T00:00:00",
+        "TAJszam": 852585284
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "1905",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "1905",
+        "Nev": "Próba_02",
+        "Szuletesinev": null,
+        "Anyjaleanykorineve": "Próba_anya_02",
+        "Szuletesihely": "Próba_szül_02",
+        "Szuletesiid": "2020-11-01T00:00:00",
+        "TAJszam": 222222222
+      }
+    }
+  }
+}

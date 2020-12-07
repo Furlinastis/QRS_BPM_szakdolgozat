@@ -1,0 +1,18 @@
+{
+  "App": {
+    "EKG_QRS_BPM": {
+      "@entityName": "EKG_QRS_BPM",
+      "@key": "1854",
+      "Betegadatok": {
+        "@entityName": "Betegadatok",
+        "@key": "1854",
+        "Nev": "Pannon Egyetem",
+        "Szuletesinev": null,
+        "Anyjaleanykorineve": "Veszprémi Egyetem",
+        "Szuletesihely": "Veszprém",
+        "Szuletesiid": "2016-09-13T00:00:00",
+        "TAJszam": 999999997
+      }
+    }
+  }
+}
